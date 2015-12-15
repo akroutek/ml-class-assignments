@@ -1,0 +1,1 @@
+Several Supervised Learning algorithms(Linear Regression and classifiers such as Logistic regression, Neural Networks, Support Vector Machines etc.) and Unsupervised Learning Algorithms(K-Means Clustering, PCA dimensionality reduction) are implemented in Octave.
